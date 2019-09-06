@@ -8,3 +8,6 @@
   <li>Numpy 1.16.4</li>
   <li>scikit-learn 0.21.2   </li>
 </ul>
+<h3> Data-set </h3>
+<p>Keep the Bacteria data into the four subfolders in data folder.<br/> Link : https://www.kaggle.com/c/bacteria-classification-at-the-genus-level/data </p>
+<img src="Images/train.png">
